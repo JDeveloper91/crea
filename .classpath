@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jettison-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/jersey-bundle-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/google-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/HikariCP-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Compressed/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/truth-0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/apache-maven-3.8.5-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
